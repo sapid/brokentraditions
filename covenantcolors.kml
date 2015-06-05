@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+    <name>KML Styles</name>
+    <open>1</open>
+    <Style id="invictus">
+        <LineStyle>
+            <color>4b1400FA</color>
+            <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>231400FA</color>
+        </PolyStyle>
+    </Style>
+    <Style id="carthian">
+        <LineStyle>
+            <color>4bFF7800</color>
+            <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>23FF7800</color>
+        </PolyStyle>
+    </Style>
+    <Style id="crone">
+        <LineStyle>
+            <color>4bFA78B4</color>
+            <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>23FA78B4</color>
+        </PolyStyle>
+    </Style>
+    <Style id="dragon">
+        <LineStyle>
+            <color>4b14B41E</color>
+            <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>2314B41E</color>
+        </PolyStyle>
+    </Style>
+    <Style id="lancea">
+        <LineStyle>
+            <color>4b14F0E6</color>
+            <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>2314F0E6</color>
+        </PolyStyle>
+    </Style>
+</Document>
